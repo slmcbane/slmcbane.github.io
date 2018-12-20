@@ -16,9 +16,7 @@
 title: Clarity and Complexity
 email: I-dig-Frechet@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Sean McBane's personal website. I write here about my own programming projects,
-    research and otherwise, and occasionally about other hobbies or activities
-    that seem interesting enough to share.
+    Sean McBane's personal website. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: slmcbane
